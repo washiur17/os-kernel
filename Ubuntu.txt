@@ -1,0 +1,21 @@
+[https://en.wikipedia.org/wiki/Ubuntu]
+--------------------------------------
+> Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software.
+> Ubuntu is officially released in three editions: Desktop, Server, and Core for Internet of things devices and robots.
+> All the editions can run on the computer alone, or in a virtual machine.
+> Ubuntu is a popular operating system for cloud computing, with support for OpenStack.
+> Ubuntu's default desktop has been GNOME since version 17.10.
+
+
+> Ubuntu is released every six months, with long-term support (LTS) releases every two years.
+> As of 22 April 2021, the most recent long-term support release is 20.04 ("Focal Fossa"), which is supported until 2025 under public support and until 2030 as a paid option for companies and free for individuals who register.
+> The latest standard release is 21.10 ("Impish Indri"), which is supported for nine months.
+
+
+> Ubuntu is developed by British company Canonical, and a community of other developers, under a meritocratic governance model.
+> Canonical provides security updates and support for each Ubuntu release, starting from the release date and until the release reaches its designated end-of-life (EOL) date.
+
+
+> Canonical generates revenue through the sale of premium services related to Ubuntu and donations from those who download the Ubuntu software.
+> Ubuntu is named after the Nguni philosophy of ubuntu, which Canonical indicates means "humanity to others" with a connotation of "I am what I am because of who we all are".
+

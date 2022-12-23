@@ -1,0 +1,16 @@
+[https://en.wikipedia.org/wiki/CentOS]
+--------------------------------------
+> CentOS (from Community Enterprise Operating System; also known as CentOS Linux) is a Linux distribution that provides a free and open-source community-supported computing platform, functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL).
+> In January 2014, CentOS announced the official joining with Red Hat while staying independent from RHEL, under a new CentOS governing board.
+
+
+> The first CentOS release in May 2004, numbered as CentOS version 2, was forked from RHEL version 2.1AS.[1] Since version 8, CentOS officially supports the x86-64, ARM64, and POWER8 architectures, and releases up to version 6 also supported the IA-32 architecture. As of December 2015, AltArch releases of CentOS 7 are available for the IA-32 architecture, Power ISA, and for the ARMv7hl and AArch64 variants of the ARM architecture.[12][13] CentOS 8 was released on 24 September 2019.
+
+
+> In December 2020, Red Hat unilaterally terminated CentOS development.
+> In response, CentOS founder Gregory Kurtzer created the Rocky Linux project as a successor to the original mission of CentOS.
+> In March 2021, Cloud Linux (makers of CloudLinux OS) released a new RHEL derivative called AlmaLinux.
+> While the distribution was discontinued at the end of 2021, development of CentOS Stream, its midstream variant, continues.
+
+
+The CentOS Project: https://www.centos.org/

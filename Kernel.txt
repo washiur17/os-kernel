@@ -1,0 +1,80 @@
+[https://en.wikipedia.org/wiki/Kernel_(operating_system)]
+---------------------------------------------------------
+> The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system.
+> It is the portion of the operating system code that is always resident in memory, and facilitates interactions between hardware and software components.
+> A full kernel controls all hardware resources (e.g. I/O, memory, cryptography) via device drivers, arbitrates conflicts between processes concerning such resources, and optimizes the utilization of common resources e.g. CPU & cache usage, file systems, and network sockets.
+> On most systems, the kernel is one of the first programs loaded on startup (after the bootloader).
+> It handles the rest of startup as well as memory, peripherals, and input/output (I/O) requests from software, translating them into data-processing instructions for the central processing unit.
+
+
+> The critical code of the kernel is usually loaded into a separate area of memory, which is protected from access by application software or other less critical parts of the operating system.
+> The kernel performs its tasks, such as running processes, managing hardware devices such as the hard disk, and handling interrupts, in this protected kernel space.
+> In contrast, application programs such as browsers, word processors, or audio or video players use a separate area of memory, user space.
+> This separation prevents user data and kernel data from interfering with each other and causing instability and slowness, as well as preventing malfunctioning applications from affecting other applications or crashing the entire operating system.
+> Even in systems where the kernel is included in application address spaces, memory protection is used to prevent unauthorized applications from modifying the kernel.
+
+
+> The kernel's interface is a low-level abstraction layer.
+> When a process requests a service from the kernel, it must invoke a system call, usually through a wrapper function.
+
+
+> There are different kernel architecture designs.
+> Monolithic kernels run entirely in a single address space with the CPU executing in supervisor mode, mainly for speed.
+> Microkernels run most but not all of their services in user space, like user processes do, mainly for resilience and modularity.
+> MINIX 3 is a notable example of microkernel design.
+> Instead, the Linux kernel is monolithic, although it is also modular, for it can insert and remove loadable kernel modules at runtime.
+
+
+> This central component of a computer system is responsible for executing programs.
+> The kernel takes responsibility for deciding at any time which of the many running programs should be allocated to the processor or processors.
+
+
+
+Contents
+========
+1. Random-access memory
+2. Input/output devices
+3. Resource management
+4. Memory management
+5. Device management
+6. System calls
+7. Kernel design decisions
+7.1. Protection
+7.1.1. Hardware- or language-based protection
+7.2. Process cooperation
+7.3. I/O device management
+8. Kernel-wide design approaches
+8.1. Monolithic kernels
+8.2. Microkernels
+8.3. Monolithic kernels vs. microkernels
+8.3.1. Performance
+8.4. Hybrid (or modular) kernels
+8.5. Nanokernels
+8.6. Exokernels
+9. History of kernel development
+9.1. Early operating system kernels
+9.2. Time-sharing operating systems
+9.3. Amiga
+9.4. Unix
+9.5. Mac OS
+9.6. Microsoft Windows
+9.7. IBM Supervisor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+[https://en.wikipedia.org/wiki/Bootloader]
+------------------------------------------
+> A bootloader, also spelled as boot loader or called boot manager and bootstrap loader, is a computer program that is responsible for booting a computer.
+	>> Bootloader
+	>> Boot Loader
+	>> Boot Manager
+	>> Bootstrap Loader
+
+> When a computer is turned off, its software‍—‌including operating systems, application code, and data‍—‌remains stored on non-volatile memory.
+
+	>> Non-volatile memory (NVM) or non-volatile storage is a type of computer memory that can retain stored information even after power is removed.
+	>> In contrast, volatile memory needs constant power in order to retain data.
+
+> When the computer is powered on, it typically does not have an operating system or its loader in random-access memory (RAM).
+> The computer first executes a relatively small program stored in read-only memory (ROM, and later EEPROM, NOR flash) along with some needed data, to initialize RAM (especially on x86 systems), to access the nonvolatile device (usually block device, eg NAND flash) or devices from which the operating system programs and data can be loaded into RAM.
+
+
+> Some earlier computer systems, upon receiving a boot signal from a human operator or a peripheral device, may load a very small number of fixed instructions into memory at a specific location, initialize at least one CPU, and then point the CPU to the instructions and start their execution.
+> These instructions typically start an input operation from some peripheral device (which may be switch-selectable by the operator).
+> Other systems may send hardware commands directly to peripheral devices or I/O controllers that cause an extremely simple input operation (such as "read sector zero of the system device into memory starting at location 1000") to be carried out, effectively loading a small number of boot loader instructions into memory; a completion signal from the I/O device may then be used to start execution of the instructions by the CPU.
+
+
+> Smaller computers often use less flexible but more automatic boot loader mechanisms to ensure that the computer starts quickly and with a predetermined software configuration.
+> In many desktop computers, for example, the bootstrapping process begins with the CPU executing software contained in ROM (for example, the BIOS of an IBM PC or an IBM PC compatible) at a predefined address (some CPUs, including the Intel x86 series are designed to execute this software after reset without outside help).
+> This software contains rudimentary functionality to search for devices eligible to participate in booting, and load a small program from a special section (most commonly the boot sector) of the most promising device, typically starting at a fixed entry point such as the start of the sector.

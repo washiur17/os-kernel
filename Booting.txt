@@ -1,0 +1,11 @@
+[https://en.wikipedia.org/wiki/Booting]
+---------------------------------------
+> In computing, booting is the process of starting a computer as initiated via hardware such as a button or by a software command.
+> After it is switched on, a computer's central processing unit (CPU) has no software in its main memory, so some process must load software into memory before it can be executed.
+> This may be done by hardware or firmware in the CPU, or by a separate processor in the computer system.
+
+
+> Restarting a computer also is called rebooting, which can be "hard", e.g. after electrical power to the CPU is switched from off to on, or "soft", where the power is not cut.
+> On some systems, a soft boot may optionally clear RAM to zero.
+> Both hard and soft booting can be initiated by hardware such as a button press or by a software command.
+> Booting is complete when the operative runtime system, typically the operating system and some applications, is attained.

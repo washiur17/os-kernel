@@ -1,0 +1,29 @@
+[https://en.wikipedia.org/wiki/Linux_kernel]
+--------------------------------------------
+> The Linux kernel is a mostly free and open-source, monolithic, modular, multitasking, Unix-like operating system kernel.
+> It was originally authored in 1991 by Linus Torvalds for his i386-based PC, and it was soon adopted as the kernel for the GNU operating system, which was written to be a free (libre) replacement for UNIX.
+
+
+> Linux as a whole is released under the GNU General Public License version 2 only, but it contains files under other compatible licenses.
+> However, Linux begun including proprietary binary blobs in its source tree and main distribution in 1996.
+> This led to other projects starting work to remove the proprietary blobs in order to produce a 100% libre kernel, which eventually led to the Linux-libre project being founded.
+
+
+> Since the late 1990s, it has been included as part of a large number of operating system distributions, many of which are commonly also called Linux.
+> However, there is a controversy surrounding the naming of such systems; some people, including Richard Stallman, argue calling such systems "Linux" is erroneous because the operating system is actually mostly GNU, with the Linux kernel being one component added later on in 1992, 9 years after the initiation of the GNU project in 1983, hence the name "GNU+Linux" or "GNU/Linux" should be used instead.
+
+
+> Linux is deployed on a wide variety of computing systems, such as embedded devices, mobile devices (including its use in the Android operating system), personal computers, servers, mainframes, and supercomputers.
+> It can be tailored for specific architectures and for several usage scenarios using a family of simple commands (that is, without the need of manually editing its source code before compilation); privileged users can also fine-tune kernel parameters at runtime.
+> Most of the Linux kernel code is written using the GNU extensions of GCC to the standard C programming language and with the use of architecture specific instructions (ISA).
+> This produces a highly optimized executable (vmlinux) with respect to utilization of memory space and task execution times.
+
+
+> Day-to-day development discussions take place on the Linux kernel mailing list (LKML).
+> Changes are tracked using the version control system git, which was originally authored by Torvalds as a free software replacement for BitKeeper.
+
+
+
+History
+=======
+
